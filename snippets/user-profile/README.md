@@ -236,7 +236,7 @@ Aptos CLI is now set up for account 0x9ec1cfa30b885a5c9d595f32f3381ec16d20873491
 Clone this repository to get the User Profile module code:
 
 ```bash
-git clone https://github.com/your-repo/daily-move.git
+git clone https://github.com/tippi-fifestarr/daily-move.git
 cd daily-move
 ```
 

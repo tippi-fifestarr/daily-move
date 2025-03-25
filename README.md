@@ -128,3 +128,7 @@ If you're new to Move, we recommend exploring the snippets in this order:
 ## Contributing
 
 Feel free to contribute your own snippets or improvements to existing ones by submitting a pull request!
+
+## Repository
+
+This repository is available at: https://github.com/tippi-fifestarr/daily-move.git

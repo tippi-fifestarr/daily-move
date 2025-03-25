@@ -502,7 +502,7 @@ module deploy_addr::user_profile {
     
     /// Borrow a mutable reference to the profile
     fun borrow_mut_profile(profile_obj: Object<UserProfile>): &mut UserProfile {
-        let profile_addr = object::object_address(profile_obj);
+        let profile_addr = object::object_address(&profile_obj);
         borrow_global_mut<UserProfile>(profile_addr)
     }
     
